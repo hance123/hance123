@@ -325,6 +325,7 @@ try:
                 print('目前时间:', otherStyleTime)
                 print('开始下一个')
                 break
+                
             else:
                 print('已过期','开始下一个')
                 break
